@@ -11,6 +11,6 @@ img{
 #Puma{
     width: 100%;
 }
-.introducao{
-    
+.introducao {
+    display: flex;
 }

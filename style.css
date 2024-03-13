@@ -13,8 +13,8 @@ header {
     align-items: flex-start;
     flex-direction: column;
 }
-#Puma{
-    width: 100%;
+.Puma{
+    width: 50%;
 }
 .introducao {
     display: flex;

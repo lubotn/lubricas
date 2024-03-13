@@ -14,7 +14,7 @@ header {
     flex-direction: column;
 }
 .Puma{
-    width: 50%;
+    width: 200%;
 }
 .introducao {
     display: flex;

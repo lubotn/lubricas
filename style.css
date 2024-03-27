@@ -36,5 +36,4 @@ width: 200%;#Puma{
 .equipe{
     display: grid;
     grid-template-columns: 33% 33% 33%;
-
 }

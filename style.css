@@ -33,3 +33,8 @@ width: 200%;#Puma{
     border: 5px solid;
 }
 }
+.equipe{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+
+}

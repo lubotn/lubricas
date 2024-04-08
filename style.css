@@ -33,7 +33,7 @@ width: 200%;#Puma{
     flex-direction: column-reverse;
     align-items: center;
 }
-.equipe{
+#equipe{
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;

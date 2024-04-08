@@ -15,10 +15,10 @@ header {
     align-items: flex-start;
     flex-direction: row;
 }
-#logo{
+.logo{
     width: 150%;
 }
-#Puma{
+.Puma{
 width: 200%;#Puma{
     width: 200%;
 }

@@ -43,3 +43,14 @@ width: 200%;#Puma{
 .Foto-equipe{
     width: 45%;
 }
+.login{
+    display block
+font-family "DM Serif Display", serif
+font-style italic
+font-weight 200
+height 50px
+overflow-clip-margin content-box
+overflow-x clip
+overflow-y clip
+width 50px
+}
